@@ -179,6 +179,7 @@ a:active{
 .reviews{
     background-color: whitesmoke;
     flex-flow: column;
+    padding-bottom: 2rem;
 }
 .reviews > h1{
     /* font-family: 'Quicksand',sans-serif; */
